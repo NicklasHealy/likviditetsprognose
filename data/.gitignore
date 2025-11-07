@@ -1,0 +1,3 @@
+# Ignore downloaded datasets but keep this directory
+*
+!.gitignore
